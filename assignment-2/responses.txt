@@ -1,0 +1,4 @@
+- One way data travels is using light through fiberoptic cables
+- The IP address talks to the DNS to find out what information it wants, like a website, and the DNS talks to other DNS's to find out the information and sends it back to the IP address.
+- A cookie is data saved so a website remembers who you are, like and ID card.
+- The three parts of a URL consist of Protocol, Domain name, and Path.
