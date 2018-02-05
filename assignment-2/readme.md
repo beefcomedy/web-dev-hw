@@ -6,4 +6,4 @@ A Version Control System allows for changes to be made to files. It also allows 
 
 My [Course notes](./notes.text)
 
-![Image of my atom editor](./images/screenshot.png
+![Image of my atom editor](./images/Screenshot.png
