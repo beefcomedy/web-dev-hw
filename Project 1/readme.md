@@ -1,4 +1,4 @@
-#Browsers
+# Browsers
 
 I use Google Chrome on my HP laptop and Safari on my iPhone. So basically when I click on a website, the browser sends that information to a server and the server sends back the requested information in different coded forms and the browsers rendering engine deciphers the codes and displays the information in a user friendly fashion.
 
