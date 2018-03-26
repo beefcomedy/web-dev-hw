@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+  <html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="description" content="Head Elements in HTML">
+    <meta name="author" content="Donovan Archambault">
+    <meta name="keywords" content="standup comedy">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact</title>
+    <style>
+      body {background-color: black}
+      h1 {color: Aqua}
+      p {color: Aqua}
+      cite {color: WhiteSmoke}
+      h2 {color: #150}
+      li {color: #150}
+      strong {color: WhiteSmoke}
+      b {color: WhiteSmoke}
+      address {color: WhiteSmoke}
+    </style>
+  </head>
+
+  <body>
+    <h1 align="center" style="font-size:60px;">Contact Us<h1>
+      <fieldset>
+        <legend>Contact Details</legend>
+        <!-- Step 2 (Name) -->
+        <p>Name:
+          <input type="text" name="name" id="name-first" placeholder="First"/>
+          <input type="text" name="name" id="name-middle" maxlength="3" size="3" placeholder="MI"/>
+          <input type="text" name="name" id="name-last" placeholder="Last"/>
+        </p>
+        <!-- Step 3 (E-mail) -->
+        <p>E-mail:
+          <input type="email" name="email" placeholder="you@email.com" autofocus/>
+        </p>
+
+        <!-- Step 4 (Date) -->
+        <p>Date of Birth:
+          <input type="date" placeholder="mm/dd/yyyy"/>
+        </p>
+
+        <!-- Step 5 ("No" Radio) -->
+        <p>Did you find this website useful?</p>
+            <input id="yes" type="radio" name="prev-course" value="y">
+              <label for="yes">Yes</label>
+            <input id="no" type="radio" name="prev-course" value="n">
+              <label for="no">No</label>
+      </fieldset>
+      <p align="center" style="font-size:20px;"><a href="../pages/about.html">About the Project</a></p>
+      <p align="center" style="font-size:20px;"><a href="../index.html">Home</a></p>
