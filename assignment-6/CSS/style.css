@@ -1,0 +1,47 @@
+body {
+  font-family: arial;
+  background-color: rgb(100,100,100);
+  width: 800px
+  height: 800px
+}
+
+/* I hope this is right */
+
+h1 {
+  color: rgb(200,200,200);
+  border: 5px solid yellow;
+  background-color: rgb(100,50,75)
+}
+
+/* These are comments */
+
+p {
+  background-color: rgb(100,255,100);
+  font-family: comic sans-serif;
+  font-weight: bold;
+}
+
+/* What the hey is going on? */
+
+.content {
+  width: 75%;
+  display: flex;
+  padding: 20px;
+}
+
+p.styled {
+  background-color: rgb(255,100,255);
+  font-family: impact;
+  font-weight: bolder;
+}
+
+.pacman {
+  background-color: rgb(150,150,250);
+  display: inline-flex;
+}
+
+.GNR {
+  background-color: rgb(225,100,100);
+  display: flex;
+  opacity: 0.5;
+}
