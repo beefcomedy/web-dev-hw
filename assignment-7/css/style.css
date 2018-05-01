@@ -1,0 +1,61 @@
+body {
+  background: white;
+  font-family: serif;
+  font-size: 12px;
+  line-height: 25px;
+}
+
+div {
+  background: rgb(150,150,150);
+  padding: 20px;
+}
+
+#navi {
+  border: 2px solid black;
+  width: 1200px;
+  font-size: 20px;
+  background: teal;
+  letter-spacing: 2em;
+  text-align: right;
+}
+
+a:link {
+  background: teal; font-size: 48px;
+}
+a:hover {
+  background: rgb(100,100,100);
+}
+a:visited {
+  background: magenta;
+}
+a:active {
+  background-color: black;
+  color: white;
+}
+
+
+p:hover {
+  background: teal;
+  font-family: 'Arvo-Italic';
+  font-size: 14px;
+  text-decoration: underline;
+}
+
+
+h1 {
+   color: black;
+   size: 2em;
+}
+.one {
+   font-family: 'Arvo-Bold', sans-serif;
+   font-weight: normal;
+}
+.two {
+   font-family: 'Arvo-Bold', sans-serif;
+   font-weight: normal;
+   font-style: italic;
+}
+.three {
+   font-family: 'Arvo-Bold', sans-serif;
+   font-weight: bold;
+}
